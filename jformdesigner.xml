@@ -1,0 +1,12 @@
+<application>
+  <component name="JFormDesignerConfigurable">
+    <node name="javacodegenerator">
+      <entry key="nestedclassmodifiers" value="10" />
+      <entry key="explicitimports" value="true" />
+      <entry key="usei18ninitmethod" value="true" />
+      <node name="templates">
+        <entry key="_header.template" value="${package_declaration}\n" />
+      </node>
+    </node>
+  </component>
+</application>

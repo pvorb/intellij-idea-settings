@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="pdflatex" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="E:\Dev\Programs\TeXLive\2016\bin\win32\pdflatex.exe" />
+      <option name="PARAMETERS" value="anschreiben.tex" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Paul/workspace/documents/bewerbung-2017" />
+    </exec>
+  </tool>
+</toolSet>
